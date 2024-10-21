@@ -31,8 +31,7 @@ LinkedIn: Access is currently closed.
 
 ![OpenCV-Python](https://img.shields.io/badge/OpenCV%20-Python-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Development Tools:**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  ,  
+**Development Tools:**   
 ![Postman](https://img.shields.io/badge/Postman-FBA919?style=flat-square&logo=postman&logoColor=white)
 
 Other Tools
