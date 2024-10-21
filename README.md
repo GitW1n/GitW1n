@@ -19,6 +19,7 @@ LinkedIn: Access is currently closed.
 
 Other Tools
 Version Control: GitHub
+
 Code Editors: Visual Studio Code, PyCharm
 
 Education
