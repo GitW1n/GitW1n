@@ -29,8 +29,7 @@ LinkedIn: Access is currently closed.
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)  ,  
 ![Electron](https://img.shields.io/badge/Electron-2C2C2C?style=flat-square&logo=electron&logoColor=white),
 
-![OpenCV-Python](https://img.shields.io/badge/OpenCV%20-Python-5C3EE8?style=flat-square&logo=opencv&logoColor=white),
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-DSFF55?style=flat-square&logo=python&logoColor=black)
+![OpenCV-Python](https://img.shields.io/badge/OpenCV%20-Python-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Development Tools:**   
 ![Postman](https://img.shields.io/badge/Postman-FBA919?style=flat-square&logo=postman&logoColor=white)
