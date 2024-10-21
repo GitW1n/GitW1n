@@ -28,6 +28,7 @@ LinkedIn: Access is currently closed.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ,  
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)  ,  
 ![Electron](https://img.shields.io/badge/Electron-2C2C2C?style=flat-square&logo=electron&logoColor=white),
+
 ![OpenCV-Python](https://img.shields.io/badge/OpenCV%20-Python-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Development Tools:**  
