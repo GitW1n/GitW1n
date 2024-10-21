@@ -15,7 +15,7 @@ LinkedIn: Access is currently closed.
 ### Skills
 
 **Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python&logoColor=white)  ,  
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)  ,  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ,  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
