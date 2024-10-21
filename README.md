@@ -24,7 +24,8 @@ LinkedIn: Access is currently closed.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks and Libraries:**  
-![Flask](https://img.shields.io/badge/Flask-Black?style=flat-square&logo=flask&logoColor=white)  ,  
+![Flask](https://img.shields.io/badge/Flask-Black?style=flat-square&logo=flask&logoColor=white)  ,
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  ,  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ,  
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)  ,  
 ![Electron](https://img.shields.io/badge/Electron-2C2C2C?style=flat-square&logo=electron&logoColor=white),
