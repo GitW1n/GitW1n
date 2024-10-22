@@ -19,7 +19,7 @@ LinkedIn: Access is currently closed.
 ### Skills
 
 **Programming Languages,Tools,Frameworks and Libraries,Tools which I study and worked with:**  
-<div style="display: flex; flex-wrap: wrap; gap: 20px; font-size: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 200px; font-size: 20px;">
     <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
@@ -29,7 +29,7 @@ LinkedIn: Access is currently closed.
     <img src="https://img.shields.io/badge/Lua(Roblox)-blue?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; font-size: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 200px; font-size: 20px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
