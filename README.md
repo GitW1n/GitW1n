@@ -2,9 +2,10 @@
 
 I'm Yakov, a  student currently studying at MSP(Moscow Programming School).
 
-Contact
-Email: wswindowsers@gmail.com
-Discord: w1ndows_
+Contact:
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white) [Twitter: W1ndowX](https://x.com/W1ndowX)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) [Gmail: wswindowsers@gmail.com](mailto:wswindowsers@gmail.com)
+![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=flat-square&logo=yahoo&logoColor=white) [Yahoo: yakovhq@yahoo.com](mailto:yakovhq@yahoo.com)
 LinkedIn: Access is currently closed.
 
 ## Areas of Interest
