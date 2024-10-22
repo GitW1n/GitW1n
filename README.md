@@ -1,6 +1,6 @@
 ### Hey There! 👋
 
-I'm Yakov, a  student currently studying at MSP(Moscow Programming School).
+I'm Yakov, a  student currently studying at MSP.
 
 Contact:
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white) [Twitter: W1ndowX](https://x.com/W1ndowX)
