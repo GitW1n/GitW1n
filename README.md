@@ -20,22 +20,21 @@ LinkedIn: Currently unavailable.
 
 **Programming Languages, Tools, Frameworks, and Libraries I study and have worked with:**  
 <div style="display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px;">
-    <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" width="100" height="45" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="100" height="45" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" width="100" height="45" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" width="100" height="45" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" width="100" height="45" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" width="100" height="45" />
-    <img src="https://img.shields.io/badge/Lua(Roblox)-blue?style=flat-square&logo=lua&logoColor=white" alt="Lua" width="100" height="45" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" width="100" height="45" />
+    <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" width="100" height="30" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="100" height="30" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" width="100" height="30" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" width="100" height="30" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" width="100" height="30" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" width="100" height="30" />
+    <img src="https://img.shields.io/badge/Lua(Roblox)-blue?style=flat-square&logo=lua&logoColor=white" alt="Lua" width="100" height="30" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" width="100" height="30" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="100" height="45" />
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" width="100" height="45" />
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" width="100" height="45" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="100" height="30" />
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" width="100" height="30" />
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" width="100" height="30" />
 </div>
 
 ### Education
 Moscow Programming School (2024 - Present)
-
