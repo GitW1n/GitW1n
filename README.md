@@ -5,7 +5,7 @@ I'm Yakov, a student currently studying at MSP.
 Contact:  
 [Twitter: W1ndowX](https://x.com/W1ndowX)  
 [Gmail: wswindowsers@gmail.com](mailto:wswindowsers@gmail.com)  
-[Yahoo: yakovhq@yahoo.com](mailto:yakovhq@yahoo.com) 
+[Yahoo: yakovhq@yahoo.com](mailto:yakovhq@yahoo.com)
 LinkedIn: Currently unavailable.
 
 ## Areas of Interest
