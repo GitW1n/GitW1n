@@ -14,7 +14,7 @@ LinkedIn: Currently unavailable.
 
 - **OpenCV**: I have a keen interest in computer vision and image processing. Using OpenCV, I experiment with various projects to analyze and manipulate images and videos.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact)
 
 ### Skills
 
