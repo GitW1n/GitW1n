@@ -1,6 +1,6 @@
 ### Hey There! 👋
 
-I'm Yakov, a student currently studying at MSP. 
+I'm Yakov, a student currently studying at MSP.
 
 Contact:  
 [Twitter: W1ndowX](https://x.com/W1ndowX)  
