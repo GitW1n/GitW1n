@@ -18,7 +18,7 @@ LinkedIn: Currently unavailable.
 
 ### Skills
 
-**Programming Languages, Tools, Frameworks, and Libraries I study or have worked with:**  
+**Programming Languages, Tools, Frameworks, and Libraries I study or have worked with (some occasionally):** 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 16px;">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
