@@ -2,14 +2,10 @@
 
 I'm Yakov, a student currently studying at MSP. 
 
-Contact:  
-[Twitter: W1ndowX](https://x.com/W1ndowX)  
+Contact:
 [Gmail: wswindowsers@gmail.com](mailto:wswindowsers@gmail.com)  
 [Yahoo: yakovhq@yahoo.com](mailto:yakovhq@yahoo.com)
-LinkedIn: Currently unavailable.
-
 ## Areas of Interest
-
 - **Web Development**: I'm fascinated by creating dynamic and responsive web applications using technologies like Python, HTML, CSS, JavaScript, and frameworks such as Electron and Node.js.
 
 - **OpenCV**: I have a keen interest in computer vision and image processing. Using OpenCV, I experiment with various projects to analyze and manipulate images and videos.
@@ -52,7 +48,6 @@ LinkedIn: Currently unavailable.
     <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" alt="Atom" /> 
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
-
 - **Lua**: Occasionally used for scripting small projects in Roblox,etc. ; however, I don't actively study this language.
 
 ### Education
