@@ -41,6 +41,5 @@ Contact:
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 - **Lua**: Occasionally used for scripting small projects in Roblox,etc. ; however, I don't actively study this language.
-
 ### Education
 Moscow Programming School (2024 - Present)
