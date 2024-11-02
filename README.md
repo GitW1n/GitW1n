@@ -4,7 +4,6 @@ I'm Yakov, a student currently studying at MSP.
 Contact:
 [Gmail: wswindowsers@gmail.com](mailto:wswindowsers@gmail.com) |    [Yahoo: yakovhq@yahoo.com](mailto:yakovhq@yahoo.com)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact)
-
 ### Skills
 **Programming Languages, Tools, Frameworks, and Libraries I study or have worked with (some occasionally):** 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 16px;">
@@ -41,5 +40,6 @@ Contact:
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 - **Lua**: Occasionally used for scripting small projects in Roblox,etc. ; however, I don't actively study this language.
-### Education
+
+###Education
 Moscow Programming School (2024 - Present)
