@@ -8,8 +8,6 @@ Contact:
 ## Areas of Interest
 - **Web Development**: I'm fascinated by creating dynamic and responsive web applications using technologies like Python, HTML, CSS, JavaScript, and frameworks such as Electron and Node.js.
 
-- **OpenCV**: I have a keen interest in computer vision and image processing. Using OpenCV, I experiment with various projects to analyze and manipulate images and videos.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact)
 
 ### Skills
