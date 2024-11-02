@@ -1,17 +1,13 @@
 ### Hey There! 👋
 
 I'm Yakov, a student currently studying at MSP. 
-
 Contact:
 [Gmail: wswindowsers@gmail.com](mailto:wswindowsers@gmail.com)  
 [Yahoo: yakovhq@yahoo.com](mailto:yakovhq@yahoo.com)
-## Areas of Interest
-- **Web Development**: I'm fascinated by creating dynamic and responsive web applications using technologies like Python, HTML, CSS, JavaScript, and frameworks such as Electron and Node.js.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact)
 
 ### Skills
-
 **Programming Languages, Tools, Frameworks, and Libraries I study or have worked with (some occasionally):** 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 16px;">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
