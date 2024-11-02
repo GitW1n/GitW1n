@@ -2,7 +2,7 @@
 
 I'm Yakov, a student currently studying at MSP. 
 Contact:
-[Gmail: wswindowsers@gmail.com](mailto:wswindowsers@gmail.com) | [Yahoo: yakovhq@yahoo.com](mailto:yakovhq@yahoo.com) | Discord:@w1ndows_
+[Gmail: wswindowsers@gmail.com](mailto:wswindowsers@gmail.com) |[Yahoo: yakovhq@yahoo.com](mailto:yakovhq@yahoo.com)| Discord:@w1ndows_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact)
 ### Skills
