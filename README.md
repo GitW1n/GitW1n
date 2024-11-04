@@ -5,7 +5,7 @@ Contact:
 [Gmail: wswindowsers@gmail.com](mailto:wswindowsers@gmail.com) | [Yahoo: yakovhq@yahoo.com](mailto:yakovhq@yahoo.com)|Discord:w1ndows_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact)
-### Skills
+### Skills 
 **Programming Languages, Tools, Frameworks, and Libraries I study or have worked with (some occasionally):** 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 16px;">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
