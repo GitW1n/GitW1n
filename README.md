@@ -28,6 +28,11 @@ I'm Yakov, a student currently studying at **Moscow Programming School (2024 - P
     <img src="https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black" alt="OpenBSD" />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+    <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" alt="Atom" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div>
 </div>
 📊 Data Science & ML
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
