@@ -17,7 +17,7 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
     <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </div>
-
+- **Lua**: Occasionally used for scripting small projects in Roblox, Neovim configs, etc.
 ### 🌐 Web Development & Databases
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -47,8 +47,6 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
     <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </div>
-
-- **Lua**: Occasionally used for scripting small projects in Roblox, Neovim configs, etc.
 
 ## 🎓 Education
 - **Moscow Programming School (2024 - Present)**
