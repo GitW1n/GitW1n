@@ -21,7 +21,7 @@ I'm Yakov, a student currently studying at **Moscow Programming School (2024 - P
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </div>
-### 🛡️ Systems & Tools
+🛡️ Systems & Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
@@ -29,7 +29,7 @@ I'm Yakov, a student currently studying at **Moscow Programming School (2024 - P
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
-### 📊 Data Science & ML
+📊 Data Science & ML
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
     <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
