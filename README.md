@@ -58,5 +58,13 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
     <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </div>
 
+## 📂 Projects
+Here are some of my notable projects:
+
+1. **[GloryVim](https://github.com/GitW1n/GloryVim)**
+   - Description:GloryVim is a minimalistic and powerful configuration of NeoVim, focused on development in Python, Lua.
+   - Skills: Lua
+
 ## 🎓 Education
 - **Moscow Programming School (2024 - Present)**
+
