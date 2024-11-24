@@ -50,7 +50,6 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
     <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD" />
     <img src="https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black" alt="OpenBSD" />
     <img src="https://img.shields.io/badge/NixOS-7F4F96?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS" />
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C85?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
