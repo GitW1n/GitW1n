@@ -19,6 +19,16 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
     <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </div>
 
+### 🛡️ Cybersecurity
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green" alt="Nmap" />  <img src="https://img.shields.io/badge/Kali%20Linux-557C85?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />  </div>
+
+### 📊 Data Science & ML
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</div>
+
 ### 🌐 Web Development & Databases
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -27,18 +37,11 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
     <div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> </div>
 </div>
 
-### 📊 Data Science & ML
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</div>
+
 
 ### 🛡️ Systems & Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
