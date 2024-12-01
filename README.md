@@ -66,4 +66,3 @@ Here are some of my notable projects:
 
 ## 🎓 Education
 - **Moscow Programming School (2024 - Present)**
-
