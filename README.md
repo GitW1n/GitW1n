@@ -73,7 +73,8 @@ Here are some of my notable projects:
 1. **[GloryVim](https://github.com/GitW1n/GloryVim)**
    - Description:GloryVim is a minimalistic and powerful configuration of NeoVim, focused on development in Python, Lua.
    - Skills: Lua
-2. **[WebScraperWave]((https://github.com/GitW1n/Web-Scrape-Wave))**
+
+2. **[WebScraperWave](https://github.com/GitW1n/Web-Scrape-Wave)**
    - Description: Web Scraper written in Python using the BeautifulSoup library. It is designed to collect data from websites based on user-provided URLs.
    - Skills: Python, bs4, Node.js
 ## 🎓 Education
