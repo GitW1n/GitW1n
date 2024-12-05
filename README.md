@@ -15,10 +15,6 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</div>
-
-#### Additional(Basic knowledge): 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
     <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </div>
