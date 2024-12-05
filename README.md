@@ -17,7 +17,7 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
     <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
-#### Additional(Basic-intermediate knowledge): 
+#### Additional: 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
     <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
