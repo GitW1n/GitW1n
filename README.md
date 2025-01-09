@@ -68,6 +68,7 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
 ### 💻 Desktop applications development (Additionally)
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron.js" />
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
 </div>
 
 ## 📂 Projects
