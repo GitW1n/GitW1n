@@ -8,7 +8,7 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitW1n)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitW1n&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📂 Projects
 Here are some of my notable projects:
