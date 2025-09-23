@@ -6,7 +6,7 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
 - [Yahoo](mailto:yakovhq@yahoo.com)
 - Discord: **w1ndows_**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact&count_private)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitW1n&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
