@@ -6,7 +6,7 @@ I'm **Yakov**, currently studying at **Moscow Programming School (2024 - Present
 - [Yahoo](mailto:yakovhq@yahoo.com)
 - Discord: **w1ndows_**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitW1n&layout=compact&count_private)
+
 
 ![:name](https://count.getloli.com/@:GitW1n)
 
